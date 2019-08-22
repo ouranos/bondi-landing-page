@@ -1,13 +1,22 @@
 // Variables
 
 // Color overrides
+$blue: #023866 !default;
+$light-blue: #1B6C8F;
+
+$bondi-navy: #043464;
+$bondi-midnight-blue: #244A73;
+$bondi-light-steel-blue: #F1F3F6;
+$bondi-cadet-blue: #5C7D9B;
+$bondi-cadet-blue2: #7C9CB1;
 
 // Set a custom color
-$orange: #f4623a !default;
+// $orange: #f4623a !default;
 $brown: #5c4d42 !default;
 
 // Set primary color to orange
-$primary: $orange !default;
+// $primary: $orange !default;
+$primary: $bondi-navy !default;
 
 // Font overrides
 $font-family-sans-serif: "Merriweather Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", 'Noto Color Emoji' !default;
